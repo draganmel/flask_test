@@ -1,0 +1,16 @@
+da napravis virtualni environment venv
+python -m venv ./venv/
+da ga aktiviras
+.\venv\Scripts\activate
+i bice activated ovako
+
+(venv) C:\Projects\flask_test>
+
+onda proveri pip package manger sta je instalirano
+pip list  
+pip install flask
+ondak dokumentuj sve verzije od instaliranih komponenti u requirments.txt file
+pip freeze > requirments.txt
+
+da poters otkucaj
+flask run 
