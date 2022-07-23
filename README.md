@@ -1,2 +1,2 @@
 # flask_test
-Basic flask test
+Basic flask server
